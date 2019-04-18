@@ -1,0 +1,29 @@
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\Teste_Desenvolver_PontoTel.exe.config
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\Teste_Desenvolver_PontoTel.XML
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\Teste_Desenvolver_PontoTel.exe
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\Teste_Desenvolver_PontoTel.pdb
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\FSharp.Core.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\FSharp.Data.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\System.ValueTuple.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\FSharp.Core.xml
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\FSharp.Data.pdb
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\FSharp.Data.xml
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\obj\Debug\Teste Desenvolver PontoTel.fsprojAssemblyReference.cache
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\obj\Debug\Teste_Desenvolver_PontoTel.exe.config
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\obj\Debug\Teste Desenvolver PontoTel.fsproj.CopyComplete
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\obj\Debug\Teste_Desenvolver_PontoTel.exe
+C:\Users\DragonRox\source\repos\Teste Desenvolver PontoTel\Teste Desenvolver PontoTel\obj\Debug\Teste_Desenvolver_PontoTel.pdb
